@@ -20,3 +20,7 @@ Our approach compares 7 BERT models:
 
 All the experiments are avaialble in [Experiments Directory](./Experiments). The model that achieved the highest accuracy is MARBERT. Its notebook is available in [MARBERT.ipynb](/MARBERT.ipynb) with some added inference examples in the end.
 
+If you wish to experiment with other models or redo an experiment, you can simply open the Jupyter notebook in Google Colab or Kaggle, connect to a GPU, and paste the desired model path from Hugging Face into the ```model_path``` parameter. Run all the cells if you don't wish to adjust any more parameters and dataset will be automatically imported, processed, and the model will be fine-tuned on the dataset and evaluated.
+
+
+
