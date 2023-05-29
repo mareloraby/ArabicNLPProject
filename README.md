@@ -18,5 +18,5 @@ Our approach compares 7 BERT models:
 6. CAMELBERT-MSA-16th
 7. mBERT
 
-All the experiments are avaialble in (/Experiments). The model that achieved the highest accuracy is MARBERT. Its notebook is available in (/MARBERT.ipynb) with added inference examples in the end.
+All the experiments are avaialble in [Experiments Directory](./Experiments). The model that achieved the highest accuracy is MARBERT. Its notebook is available in [MARBERT.ipynb](/MARBERT.ipynb) with some added inference examples in the end.
 
