@@ -1,8 +1,8 @@
 # Emotion Recognition in Arabic Tweets
 > Team 8:
-> - Maryam ElOraby
-> - Rawan Reda
-> - Salma El-Shafey
+> - [Maryam ElOraby](https://github.com/mareloraby)
+> - [Rawan Reda](https://github.com/RawanReda)
+> - [Salma El-Shafey](https://github.com/salma-elshafey)
 
 
 
