@@ -1,4 +1,4 @@
-# Emotion Recognition in Arabic Tweets M2 
+# Emotion Recognition in Arabic Tweets
 > Team 8:
 > - Maryam ElOraby
 > - Rawan Reda
